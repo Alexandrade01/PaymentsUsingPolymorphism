@@ -1,0 +1,7 @@
+C:\Users\alexa\Documents\programação\c# e windows forms\Curso UDEMY c# Orientação a objetos\seção 10 Herança e Polimorfismo\feitos por mim\ExPayPolimorfism\ExPayPolimorfism\bin\Debug\ExPayPolimorfism.exe.config
+C:\Users\alexa\Documents\programação\c# e windows forms\Curso UDEMY c# Orientação a objetos\seção 10 Herança e Polimorfismo\feitos por mim\ExPayPolimorfism\ExPayPolimorfism\bin\Debug\ExPayPolimorfism.exe
+C:\Users\alexa\Documents\programação\c# e windows forms\Curso UDEMY c# Orientação a objetos\seção 10 Herança e Polimorfismo\feitos por mim\ExPayPolimorfism\ExPayPolimorfism\bin\Debug\ExPayPolimorfism.pdb
+C:\Users\alexa\Documents\programação\c# e windows forms\Curso UDEMY c# Orientação a objetos\seção 10 Herança e Polimorfismo\feitos por mim\ExPayPolimorfism\ExPayPolimorfism\obj\Debug\ExPayPolimorfism.csprojAssemblyReference.cache
+C:\Users\alexa\Documents\programação\c# e windows forms\Curso UDEMY c# Orientação a objetos\seção 10 Herança e Polimorfismo\feitos por mim\ExPayPolimorfism\ExPayPolimorfism\obj\Debug\ExPayPolimorfism.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Documents\programação\c# e windows forms\Curso UDEMY c# Orientação a objetos\seção 10 Herança e Polimorfismo\feitos por mim\ExPayPolimorfism\ExPayPolimorfism\obj\Debug\ExPayPolimorfism.exe
+C:\Users\alexa\Documents\programação\c# e windows forms\Curso UDEMY c# Orientação a objetos\seção 10 Herança e Polimorfismo\feitos por mim\ExPayPolimorfism\ExPayPolimorfism\obj\Debug\ExPayPolimorfism.pdb
